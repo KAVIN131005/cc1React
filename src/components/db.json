@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "password": "mypassword456"
+    },
+    {
+      "id": "1729534080682",
+      "name": "KAVIN K",
+      "email": "727723eucs102@skcet.ac.in",
+      "password": "1"
+    },
+    {
+      "id": "1729534197204",
+      "name": "xtggadvyuqla",
+      "email": "sdsder@gmail.com",
+      "password": "11"
+    },
+    {
+      "id": "1729534262448",
+      "name": "eswed",
+      "email": "kavin@harini",
+      "password": "1111"
+    },
+    {
+      "id": "1729697564284",
+      "name": "Kavin",
+      "email": "kavin@ww",
+      "password": "12"
+    },
+    {
+      "id": "1729747602878",
+      "name": "KAVIN K",
+      "email": "727723eucs072@skcet.ac.in",
+      "password": "12"
+    },
+    {
+      "id": "1729752790769",
+      "name": "KAVIN K",
+      "email": "kumarkavin2005@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": "1729752965127",
+      "name": "KAVIN K",
+      "email": "shalik@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 1730179031268,
+      "name": "ew3ec",
+      "email": "kumarkavin2005@example.in",
+      "password": "11"
+    }
+  ]
+}
